@@ -325,3 +325,4 @@ Key - Name of the key to be removed
 localStorage.removeItem("todoList");
 ```
 
+![Screen shot ](https://res.cloudinary.com/dxejhgtqt/image/upload/v1664648576/samples/Screenshot_31_wgkfce.png)
