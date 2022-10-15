@@ -285,7 +285,7 @@ console.log(myArray);  // [5, "six", "one", false, 2, 8.2]
 let myArray = [5, "six", 2, 8.2];
 myArray.splice(2, 1, true);
 
-console.log(myArray);  // [5, "six", true, 8.2]
+console.log(myArray);   // [5, "six", true, 8.2]
 ```
 **1.2 findIndex()**
 The findIndex() method returns the first item's index that satisfies the provided testing function. If no item is found, it returns -1.
